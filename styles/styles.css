@@ -18,7 +18,6 @@
   --dark-color: #505050;
   --text-color: #333;
   --link-color: #044123;
-  --link-hover-color: #01b484;
   --pale-green: #ccdcc8;
   --forrest-green: #044123;
   --ni-green: #03b585;
@@ -187,11 +186,6 @@ a:any-link {
   color: var(--link-color);
   text-decoration: none;
   overflow-wrap: break-word;
-}
-
-a:hover {
-  color: var(--link-hover-color);
-  text-decoration: underline;
 }
 
 /* buttons */
