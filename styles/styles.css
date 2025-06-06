@@ -285,6 +285,7 @@ main > .section > div {
 
 main > .section:first-of-type {
   margin-top: 0;
+  margin-bottom: 64px;
 }
 
 @media (width >= 900px) {
